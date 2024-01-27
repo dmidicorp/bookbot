@@ -1,2 +1,3 @@
 # bookbot
-Boot.Dev BookBot project
+Bookbot is my first github project!
+This is my second change that I commit.
